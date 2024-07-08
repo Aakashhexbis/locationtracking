@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#Ad0000</color>
+    <color name="colorPrimaryDark">#131840</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="ActivityBg">#ECEFF1</color>
+
+    <color name="hintcolor">#464545</color>
+    <color name="cardbg">#B0B0B6</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="Gray">#9B9B9B</color>
+    <color name="White">#ffff</color>
+    <color name="Black">#000000</color>
+    <color name="DarkGray">#C4C4C4</color>
+    <color name="DarkSeaGreen">#8fbc8f</color>
+    <color name="Blue">#1E88E5</color>
+
+    <color name="OffWhite">#EBEBEB</color>
+
+    <color name="color_20_gray_blue">#9B9B9B</color>
+    <color name="gray">#9B9B9B</color>
+
+    <color name="ShiftClosed">#F44336</color>
+    <color name="ShiftOpen">#4CAF50</color>
+
+    <color name="TranslucentRed">#81F44336</color>
+
+    <color name="Red">#F44336</color>
+    <color name="Green">#4CAF50</color>
+    <color name="Yellow">#FFB700</color>
+
+    <color name="white_ripple_color">#59FFFFFF</color>
+</resources>
